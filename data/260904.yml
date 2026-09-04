@@ -1,0 +1,61 @@
+about:
+  description:
+  |
+    阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+  license: Apache-2.0
+  homepage: 
+  head: 2feaa3c
+  archived: false
+  latestVersion: v0.4.0
+  collectedAt: 2026-09-04T04:59:04Z
+timeline:
+  created: 2021-08-04
+  lastCommit: 2026-07-05
+  lastRelease: 2026-06-29
+popularity:
+  star: 5103
+  watcher: 31
+  fork: 397
+  release: 40
+  contributor: 7
+  pullRequest: 5
+  issue: 525
+language:
+  Go: 754899
+  Shell: 8556
+  Batchfile: 2594
+  Dockerfile: 2201
+totalBytes: 768250
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 4
+    openIssue: 3
+    commit: 4
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 8
+    openIssue: 5
+    commit: 7
+  last360d:
+    since: 2025-09-09
+    release: 3
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 21
+    openIssue: 9
+    commit: 36
