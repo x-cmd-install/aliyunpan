@@ -5,13 +5,13 @@ about:
   head: d05d19a
   archived: false
   latestVersion: "v0.4.0"
-  collectedAt: 2026-09-07T04:21:48Z
+  collectedAt: 2026-09-07T20:00:36Z
 timeline:
   created: 2021-08-04
   lastCommit: 2026-09-07
   lastRelease: 2026-06-29
 popularity:
-  star: 5101
+  star: 5102
   watcher: 32
   fork: 397
   release: 40
@@ -82,7 +82,7 @@ total:
   commit: 672
 ---
 path: /home/runner/.x-repo/github.com/tickstep/aliyunpan
-collectedAt: 2026-09-07T04:21:51Z
+collectedAt: 2026-09-07T20:00:37Z
 loc:
   Go:
     code: 19569
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:52+00:00
+  collectedAt: 2026-09-07T20:00:38+00:00
   platform:
     darwin/arm64:
       name:  aliyunpan-v0.4.0-darwin-macos-arm64.zip
