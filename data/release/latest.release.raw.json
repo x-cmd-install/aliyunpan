@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6680292,
       "digest": "sha256:b6c4614716868e904c25087e8e7fca4b571d37a3b2143288a6abfdf06d2bd0ec",
-      "download_count": 206,
+      "download_count": 207,
       "created_at": "2026-06-29T03:22:22Z",
       "updated_at": "2026-06-29T03:22:30Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-386.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7057852,
       "digest": "sha256:ff97dac5d37f1d2007d9a691d535b940300efc84c5e45e5cddec81ac7ebbc947",
-      "download_count": 3022,
+      "download_count": 3038,
       "created_at": "2026-06-29T03:22:30Z",
       "updated_at": "2026-06-29T03:22:39Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-amd64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6556083,
       "digest": "sha256:1551cbc318e6507a0b9e78675437b33e44e8463e89910832781ad214cf8f82c8",
-      "download_count": 283,
+      "download_count": 286,
       "created_at": "2026-06-29T03:22:39Z",
       "updated_at": "2026-06-29T03:22:47Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-arm64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6663524,
       "digest": "sha256:01f02b2f017a3e6db6d420a8320d814c6cdaa41b0038b086373c09d0b104afec",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-06-29T03:22:55Z",
       "updated_at": "2026-06-29T03:23:03Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-armv7.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6630800,
       "digest": "sha256:f5a1500a44d934d9488368855802cf10553f82cdd33ef166e30be6c87e8bdf39",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-06-29T03:23:03Z",
       "updated_at": "2026-06-29T03:23:12Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-loong64.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 7267350,
       "digest": "sha256:471dfc6538f1032114a0b5ba5c69461e15179cb8b29137ea29f158013d4c8759",
-      "download_count": 1043,
+      "download_count": 1053,
       "created_at": "2026-06-29T03:24:22Z",
       "updated_at": "2026-06-29T03:24:30Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 6965969,
       "digest": "sha256:f43aca4005ddc4e1165edac0f2f4368f039621d7c4ac2ff6626ce2743f2db96c",
-      "download_count": 494,
+      "download_count": 498,
       "created_at": "2026-06-29T03:24:30Z",
       "updated_at": "2026-06-29T03:24:38Z",
       "browser_download_url": "https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x86.zip"
