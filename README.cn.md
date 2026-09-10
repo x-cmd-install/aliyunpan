@@ -4,7 +4,7 @@
 
 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-![aliyunpan](https://repo.x-cmd.io/aliyunpan.svg)
+![aliyunpan](https://repo.x-cmd.io/aliyunpan.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,37 @@ x install aliyunpan
 - **最新版本**: `v0.4.0` (2026-06-29)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 26 个
-- **发布时间**: 2026-06-29T03:24:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aliyunpan-v0.4.0-android-api16-386.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-android-api16-386.zip) | 7.0 MiB | `other` |
+| [aliyunpan-v0.4.0-android-api16-armv7.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-android-api16-armv7.zip) | 6.7 MiB | `other` |
+| [aliyunpan-v0.4.0-android-api21-amd64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-android-api21-amd64.zip) | 6.9 MiB | `other` |
+| [aliyunpan-v0.4.0-android-api21-arm64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-android-api21-arm64.zip) | 6.5 MiB | `other` |
+| [aliyunpan-v0.4.0-darwin-macos-amd64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-darwin-macos-amd64.zip) | 6.8 MiB | `native/darwin/x64` |
+| [aliyunpan-v0.4.0-darwin-macos-arm64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-darwin-macos-arm64.zip) | 6.5 MiB | `native/darwin/arm64` |
+| [aliyunpan-v0.4.0-freebsd-386.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-freebsd-386.zip) | 6.4 MiB | `other` |
+| [aliyunpan-v0.4.0-freebsd-amd64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-freebsd-amd64.zip) | 6.7 MiB | `other` |
+| [aliyunpan-v0.4.0-ios-arm64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-ios-arm64.zip) | 6.3 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-386.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-386.zip) | 6.4 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-amd64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-amd64.zip) | 6.7 MiB | `native/linux/x64` |
+| [aliyunpan-v0.4.0-linux-arm64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-arm64.zip) | 6.3 MiB | `native/linux/arm64` |
+| [aliyunpan-v0.4.0-linux-armv5.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-armv5.zip) | 6.4 MiB | `native/linux/arm` |
+| [aliyunpan-v0.4.0-linux-armv7.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-armv7.zip) | 6.4 MiB | `native/linux/arm` |
+| [aliyunpan-v0.4.0-linux-loong64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-loong64.zip) | 6.3 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mips.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mips.zip) | 6.2 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mips64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mips64.zip) | 6.1 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mips64hf.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mips64hf.zip) | 6.1 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mips64le.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mips64le.zip) | 5.9 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mips64lehf.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mips64lehf.zip) | 5.9 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mipshf.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mipshf.zip) | 6.2 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mipsle.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mipsle.zip) | 6.0 MiB | `other` |
+| [aliyunpan-v0.4.0-linux-mipslehf.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-linux-mipslehf.zip) | 6.0 MiB | `other` |
+| [aliyunpan-v0.4.0-windows-arm64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-arm64.zip) | 6.3 MiB | `native/win/arm64` |
+| [aliyunpan-v0.4.0-windows-x64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x64.zip) | 6.9 MiB | `native/win/x64` |
+| [aliyunpan-v0.4.0-windows-x86.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x86.zip) | 6.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +91,4 @@ aliyunpan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:13:04Z._
