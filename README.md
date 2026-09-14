@@ -37,7 +37,7 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,107 · **Forks**: 396 · **Open issues**: 525 · **Contributors**: 8
+- **Stars**: 5,108 · **Forks**: 396 · **Open issues**: 525 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-07-15 | 0 | 1 | 0 | 1 | 1 | 1 |
-| 90d | 2026-06-15 | 1 | 1 | 0 | 3 | 2 | 5 |
-| last180d | 2026-03-17 | 2 | 1 | 0 | 8 | 5 | 8 |
-| 360d | 2025-09-18 | 3 | 3 | 0 | 20 | 9 | 37 |
-| last720d | 2024-09-23 | 6 | 4 | 0 | 72 | 15 | 107 |
+| 30d | 2026-08-15 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-07-16 | 0 | 1 | 0 | 1 | 1 | 1 |
+| 90d | 2026-06-16 | 1 | 1 | 0 | 3 | 2 | 5 |
+| last180d | 2026-03-18 | 2 | 1 | 0 | 8 | 5 | 8 |
+| 360d | 2025-09-19 | 3 | 3 | 0 | 20 | 9 | 37 |
+| last720d | 2024-09-24 | 6 | 4 | 0 | 72 | 15 | 107 |
 
 ## Release assets
 
@@ -85,15 +85,6 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 | [aliyunpan-v0.4.0-windows-x64.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x64.zip) | 6.9 MiB | `native/win/x64` |
 | [aliyunpan-v0.4.0-windows-x86.zip](https://github.com/tickstep/aliyunpan/releases/download/v0.4.0/aliyunpan-v0.4.0-windows-x86.zip) | 6.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/aliyunpan). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.0` | ✅ latest |
-| Nix unstable | `0.4.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for aliyunpan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aliyunpan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +94,4 @@ Install metadata for aliyunpan lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:07Z._
