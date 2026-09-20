@@ -4,7 +4,7 @@
 
 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-![aliyunpan](https://repo.x-cmd.io/aliyunpan.svg)
+[![x-cmd/install — aliyunpan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aliyunpan.svg)](https://x-cmd.com/install/aliyunpan)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,112 · **Forks**: 395 · **Open issues**: 525 · **Contributors**: 8
+- **Stars**: 5,113 · **Forks**: 395 · **Open issues**: 525 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 1 | 1 | 1 |
-| 90d | 2026-06-20 | 1 | 1 | 0 | 2 | 2 | 5 |
-| last180d | 2026-03-22 | 2 | 1 | 0 | 8 | 5 | 8 |
-| 360d | 2025-09-23 | 3 | 3 | 0 | 20 | 9 | 37 |
-| last720d | 2024-09-28 | 6 | 3 | 0 | 72 | 15 | 106 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 1 | 1 | 1 |
+| 90d | 2026-06-22 | 1 | 1 | 0 | 2 | 2 | 5 |
+| last180d | 2026-03-24 | 2 | 1 | 0 | 8 | 5 | 8 |
+| 360d | 2025-09-25 | 3 | 3 | 0 | 20 | 9 | 37 |
+| last720d | 2024-09-30 | 6 | 3 | 0 | 72 | 15 | 106 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for aliyunpan lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:28:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:43:50Z._
