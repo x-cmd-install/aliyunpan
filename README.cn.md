@@ -4,7 +4,7 @@
 
 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-[![x-cmd/install — aliyunpan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aliyunpan.svg?lang=zh)](https://x-cmd.com/install/aliyunpan)
+[![x-cmd/install — aliyunpan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aliyunpan.svg?lang=zh)](https://x-cmd.com/install/aliyunpan)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install aliyunpan
 
 ## 流行度
 
-- **Star**: 5,114 · **Fork**: 394 · **开放 issue**: 525 · **贡献者**: 8
+- **Star**: 5,116 · **Fork**: 394 · **开放 issue**: 525 · **贡献者**: 8
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install aliyunpan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 1 | 0 | 1 | 1 | 1 |
-| 90d | 2026-06-24 | 1 | 1 | 0 | 1 | 2 | 5 |
-| last180d | 2026-03-26 | 2 | 1 | 0 | 8 | 5 | 8 |
-| 360d | 2025-09-27 | 3 | 3 | 0 | 20 | 9 | 37 |
-| last720d | 2024-10-02 | 6 | 3 | 0 | 72 | 15 | 106 |
+| 30d | 2026-08-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 1 | 0 | 1 | 1 | 1 |
+| 90d | 2026-06-25 | 1 | 1 | 0 | 1 | 2 | 5 |
+| last180d | 2026-03-27 | 2 | 1 | 0 | 8 | 5 | 8 |
+| 360d | 2025-09-28 | 3 | 3 | 0 | 20 | 9 | 37 |
+| last720d | 2024-10-03 | 6 | 3 | 0 | 72 | 15 | 106 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ aliyunpan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:39:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:34:47Z._
