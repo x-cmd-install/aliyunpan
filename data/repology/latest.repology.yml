@@ -1,0 +1,36 @@
+- repo: homebrew
+  srcname: aliyunpan
+  visiblename: aliyunpan
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Command-line client tool for Alibaba aDrive disk
+- repo: homebrew
+  srcname: aliyunpan
+  visiblename: aliyunpan
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line client tool for Alibaba aDrive disk
+- repo: nix_stable_26_05
+  srcname: aliyunpan
+  visiblename: aliyunpan
+  version: 0.3.9
+  origversion: null
+  status: outdated
+  summary: Command line client for Aliyun Drive
+  maintainers:
+    - xiangpingjiang1998@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: aliyunpan
+  visiblename: aliyunpan
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Command line client for Aliyun Drive
+  maintainers:
+    - xiangpingjiang1998@gmail.com
+  licenses:
+    - Apache-2.0
