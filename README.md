@@ -37,7 +37,7 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,126 · **Forks**: 396 · **Open issues**: 528 · **Contributors**: 8
+- **Stars**: 5,128 · **Forks**: 395 · **Open issues**: 528 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **19,907** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-26 | 0 | 1 | 2 | 0 | 2 | 1 |
-| 90d | 2026-07-27 | 0 | 1 | 2 | 1 | 3 | 1 |
-| last180d | 2026-04-28 | 1 | 1 | 2 | 5 | 7 | 5 |
-| 360d | 2025-10-30 | 3 | 3 | 2 | 19 | 11 | 37 |
-| last720d | 2024-11-04 | 6 | 3 | 2 | 61 | 16 | 103 |
+| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-27 | 0 | 1 | 2 | 0 | 2 | 1 |
+| 90d | 2026-07-28 | 0 | 1 | 2 | 1 | 3 | 1 |
+| last180d | 2026-04-29 | 1 | 1 | 2 | 5 | 7 | 5 |
+| 360d | 2025-10-31 | 3 | 3 | 2 | 19 | 11 | 37 |
+| last720d | 2024-11-05 | 6 | 3 | 2 | 61 | 16 | 103 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for aliyunpan lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:26:58Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:29:30Z._
